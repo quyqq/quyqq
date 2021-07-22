@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Quuy (Michael)
+- 👋 Hi, I’m Quy (Michael)
 - 👀 I’m interested in Software development.
 - 🌱 I’m currently learning nodejs, react and others
 - 📫 Email: quyqq37192@gmail.com
