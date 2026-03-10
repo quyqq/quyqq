@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Quy (Michael)
 - 👀 I’m interested in Software and Games development.
-- 📫 Email: quyqq37192@gmail.com
+- 📫 Email: quyqq37192@gmail.com / michael@thecatalysisgroup.com.au
