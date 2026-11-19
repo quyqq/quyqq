@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Quy (Michael)
+- 👋 Hi, I’m Quy (Michael Quyet)
 - 👀 I’m interested in Software and Games development.
 - 📫 Email: quyqq37192@gmail.com / michael@thecatalysisgroup.com.au
